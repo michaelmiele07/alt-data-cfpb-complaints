@@ -1,0 +1,48 @@
+company_pattern,ticker,name,note
+TRANSUNION,TRU,TransUnion,credit bureau - complaint counts inflated by credit-repair templates
+EQUIFAX,EFX,Equifax,credit bureau - same inflation caveat
+Experian,EXPGY,Experian plc,foreign-listed ADR - same caveat
+CAPITAL ONE,COF,Capital One,
+JPMORGAN,JPM,JPMorgan Chase,
+"Block, Inc.",XYZ,Block (Cash App),ticker SQ before 2025-01
+WELLS FARGO,WFC,Wells Fargo,
+BANK OF AMERICA,BAC,Bank of America,
+"CITIBANK, N.A.",C,Citigroup,
+ENCORE CAPITAL,ECPG,Encore Capital,debt collector
+Portfolio Recovery,PRAA,PRA Group,debt collector
+SYNCHRONY,SYF,Synchrony Financial,
+AMERICAN EXPRESS,AXP,American Express,
+Bread Financial,BFH,Bread Financial,
+Paypal,PYPL,PayPal,
+DISCOVER BANK,COF,Capital One,Discover acquired by COF 2025-05; DFS standalone before
+"Nelnet, Inc.",NNI,Nelnet,student-loan servicer
+U.S. BANCORP,USB,U.S. Bancorp,
+GOLDMAN SACHS,GS,Goldman Sachs,
+TD BANK,TD,TD Bank,foreign-listed
+SANTANDER,SAN,Banco Santander,foreign-listed ADR
+ALLY FINANCIAL,ALLY,Ally Financial,
+Affirm,AFRM,Affirm,BNPL
+Fidelity National Information,FIS,FIS,
+TRUIST,TFC,Truist,
+BARCLAYS,BCS,Barclays,foreign-listed ADR
+Shellpoint,RITM,Rithm Capital,mortgage servicer (NewRez/Shellpoint)
+Maximus,MMS,Maximus,
+OneMain,OMF,OneMain Financial,subprime lender
+PNC Bank,PNC,PNC,
+CREDIT ACCEPTANCE,CACC,Credit Acceptance,subprime auto
+Chime Financial,CHYM,Chime,IPO 2025-06 - short price history
+"SoFi",SOFI,SoFi,
+Navient,NAVI,Navient,student-loan servicer
+"Mr. Cooper",COOP,Mr. Cooper,mortgage servicer
+"Ocwen",ONIT,Onity Group,formerly Ocwen
+"Rocket Mortgage",RKT,Rocket Companies,
+"Upstart",UPST,Upstart,
+"LendingClub",LC,LendingClub,
+"Enova",ENVA,Enova International,subprime lender
+"Oportun",OPRT,Oportun Financial,subprime lender
+"World Acceptance",WRLD,World Acceptance,subprime lender
+"Regional Management",RM,Regional Management,subprime lender
+"Green Dot",GDOT,Green Dot,
+"Marqeta",MQ,Marqeta,
+"Robinhood",HOOD,Robinhood,
+"Coinbase",COIN,Coinbase,

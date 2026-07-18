@@ -1,0 +1,4 @@
+months tested: 131 (>=9 names each)
+mean top-minus-bottom tertile fwd 1-mo return (M+2): +0.07%
+two-sided permutation p (2000 shuffles): 0.824
+sign convention: positive = rising complaints -> HIGHER returns

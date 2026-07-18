@@ -1,0 +1,1616 @@
+month,product,n
+2012-03,Bank account or service,1190
+2012-04,Consumer Loan,173
+2013-07,Mortgage,4353
+2014-01,Mortgage,3600
+2014-08,Credit card,1229
+2015-12,Mortgage,3086
+2016-06,Mortgage,3509
+2016-10,Bank account or service,2187
+2017-01,Bank account or service,1989
+2017-01,Mortgage,3302
+2017-03,Mortgage,3248
+2017-08,Mortgage,2444
+2017-10,Mortgage,2302
+2017-11,Mortgage,2168
+2017-12,Credit card or prepaid card,1838
+2018-04,Mortgage,2725
+2018-05,Mortgage,2219
+2018-11,Checking or savings account,1717
+2019-03,Mortgage,2002
+2019-08,Mortgage,2035
+2020-01,Mortgage,1835
+2020-11,Mortgage,1821
+2020-12,"Credit reporting, credit repair services, or other personal consumer reports",34600
+2021-02,"Credit reporting, credit repair services, or other personal consumer reports",18374
+2021-02,Debt collection,5282
+2021-04,"Credit reporting, credit repair services, or other personal consumer reports",23375
+2021-04,Debt collection,5738
+2021-06,"Credit reporting, credit repair services, or other personal consumer reports",29668
+2021-09,Checking or savings account,2365
+2021-12,"Money transfer, virtual currency, or money service",933
+2021-12,Mortgage,2008
+2021-12,Vehicle loan or lease,578
+2022-01,"Credit reporting, credit repair services, or other personal consumer reports",37130
+2022-01,Mortgage,2213
+2022-01,Vehicle loan or lease,698
+2022-03,"Credit reporting, credit repair services, or other personal consumer reports",43573
+2022-03,Mortgage,2506
+2022-04,Checking or savings account,3236
+2022-04,"Credit reporting, credit repair services, or other personal consumer reports",54426
+2022-04,Debt collection,6007
+2022-04,Mortgage,2274
+2022-05,"Credit reporting, credit repair services, or other personal consumer reports",45965
+2022-05,Debt collection,4567
+2022-06,"Credit reporting, credit repair services, or other personal consumer reports",47275
+2022-07,Credit card or prepaid card,3380
+2022-07,Mortgage,1720
+2022-08,"Credit reporting, credit repair services, or other personal consumer reports",51933
+2022-09,"Credit reporting, credit repair services, or other personal consumer reports",49132
+2022-09,Debt collection,4516
+2022-10,Checking or savings account,3102
+2022-10,"Credit reporting, credit repair services, or other personal consumer reports",59077
+2022-11,"Credit reporting, credit repair services, or other personal consumer reports",61772
+2022-11,Debt collection,4338
+2023-01,Checking or savings account,6395
+2023-01,"Credit reporting, credit repair services, or other personal consumer reports",70513
+2023-01,Debt collection,5871
+2023-02,"Credit reporting, credit repair services, or other personal consumer reports",67892
+2023-03,Checking or savings account,1387
+2023-03,Debt collection,2152
+2023-04,"Credit reporting, credit repair services, or other personal consumer reports",1
+2023-05,"Credit reporting, credit repair services, or other personal consumer reports",1
+2023-06,Credit card or prepaid card,1
+2023-07,"Credit reporting, credit repair services, or other personal consumer reports",7
+2023-08,Checking or savings account,1
+2023-08,Debt or credit management,1
+2023-09,Prepaid card,1
+2023-10,Credit reporting or other personal consumer reports,10
+2023-10,Mortgage,1
+2023-10,Vehicle loan or lease,1
+2023-11,Credit reporting or other personal consumer reports,65688
+2024-01,Credit reporting or other personal consumer reports,119513
+2024-01,Vehicle loan or lease,1071
+2024-02,Checking or savings account,3833
+2024-02,Credit card,5182
+2024-02,Credit reporting or other personal consumer reports,132992
+2024-03,Checking or savings account,4257
+2024-03,Credit reporting or other personal consumer reports,147637
+2024-03,Mortgage,1893
+2024-04,Credit reporting or other personal consumer reports,160450
+2024-04,Mortgage,1817
+2024-05,Checking or savings account,4540
+2024-05,Credit card,6761
+2024-05,Credit reporting or other personal consumer reports,181423
+2024-05,Vehicle loan or lease,1050
+2024-06,Checking or savings account,3887
+2024-06,Credit reporting or other personal consumer reports,177586
+2024-06,Mortgage,1576
+2024-07,Credit reporting or other personal consumer reports,203567
+2024-08,Checking or savings account,4682
+2024-08,Credit reporting or other personal consumer reports,230748
+2024-08,Mortgage,1861
+2024-09,Credit reporting or other personal consumer reports,230926
+2024-09,"Payday loan, title loan, personal loan, or advance loan",740
+2024-10,Credit reporting or other personal consumer reports,259079
+2024-10,Debt collection,17484
+2024-10,Mortgage,1809
+2024-11,Credit reporting or other personal consumer reports,253751
+2024-11,"Money transfer, virtual currency, or money service",1417
+2024-11,Mortgage,1719
+2024-12,Credit reporting or other personal consumer reports,267923
+2024-12,Mortgage,1784
+2024-12,Student loan,1323
+2025-01,Credit card,9073
+2025-01,Credit reporting or other personal consumer reports,365868
+2025-01,Debt collection,23830
+2025-01,"Money transfer, virtual currency, or money service",49743
+2025-01,"Payday loan, title loan, personal loan, or advance loan",1099
+2025-01,Prepaid card,756
+2025-01,Student loan,2232
+2025-02,Checking or savings account,5453
+2025-02,Credit reporting or other personal consumer reports,293836
+2025-02,"Money transfer, virtual currency, or money service",6128
+2025-02,Student loan,1868
+2025-03,Checking or savings account,5070
+2025-03,Credit reporting or other personal consumer reports,354018
+2025-03,Debt collection,20370
+2025-03,Mortgage,1824
+2025-03,Vehicle loan or lease,1310
+2025-04,Credit reporting or other personal consumer reports,364046
+2025-04,Debt collection,20304
+2025-04,Mortgage,1846
+2025-04,Student loan,2159
+2025-05,Checking or savings account,5394
+2025-05,Credit card,7516
+2025-05,Credit reporting or other personal consumer reports,370400
+2025-05,Debt collection,21959
+2025-05,Student loan,1904
+2025-06,Checking or savings account,5560
+2025-06,Credit reporting or other personal consumer reports,368108
+2025-06,"Money transfer, virtual currency, or money service",2408
+2025-06,Mortgage,1903
+2025-06,Student loan,1410
+2025-06,Vehicle loan or lease,1709
+2025-07,Checking or savings account,6403
+2025-07,Credit card,8106
+2025-07,Credit reporting or other personal consumer reports,423155
+2025-07,Debt collection,24874
+2025-07,Debt or credit management,350
+2025-07,Mortgage,2173
+2025-07,"Payday loan, title loan, personal loan, or advance loan",1244
+2025-07,Student loan,1564
+2025-07,Vehicle loan or lease,1970
+2025-08,Checking or savings account,6505
+2025-08,Credit card,7920
+2025-08,Credit reporting or other personal consumer reports,445613
+2025-08,Debt collection,25627
+2025-08,Mortgage,2048
+2025-08,"Payday loan, title loan, personal loan, or advance loan",1134
+2025-08,Prepaid card,558
+2025-08,Student loan,1268
+2025-09,Checking or savings account,6141
+2025-09,Credit card,8505
+2025-09,Credit reporting or other personal consumer reports,452652
+2025-09,Debt collection,26819
+2025-09,Mortgage,2022
+2025-09,"Payday loan, title loan, personal loan, or advance loan",1242
+2025-09,Student loan,1326
+2025-10,Checking or savings account,6309
+2025-10,Credit card,7414
+2025-10,Credit reporting or other personal consumer reports,469207
+2025-10,Debt collection,25550
+2025-10,"Money transfer, virtual currency, or money service",4194
+2025-10,Mortgage,2091
+2025-10,"Payday loan, title loan, personal loan, or advance loan",1183
+2025-10,Student loan,1315
+2025-10,Vehicle loan or lease,1768
+2025-11,Checking or savings account,6077
+2025-11,Credit card,6864
+2025-11,Credit reporting or other personal consumer reports,448103
+2025-11,Debt collection,25716
+2025-11,Debt or credit management,338
+2025-11,"Money transfer, virtual currency, or money service",2604
+2025-11,Mortgage,2218
+2025-11,"Payday loan, title loan, personal loan, or advance loan",1198
+2025-11,Student loan,1189
+2025-11,Vehicle loan or lease,1907
+2025-12,Checking or savings account,7706
+2025-12,Credit card,7880
+2025-12,Credit reporting or other personal consumer reports,455492
+2025-12,Debt collection,29350
+2025-12,Debt or credit management,356
+2025-12,"Money transfer, virtual currency, or money service",3155
+2025-12,Mortgage,2663
+2025-12,"Payday loan, title loan, personal loan, or advance loan",1494
+2025-12,Prepaid card,639
+2025-12,Student loan,1665
+2025-12,Vehicle loan or lease,2293
+2026-01,Checking or savings account,7956
+2026-01,Credit card,9560
+2026-01,Credit reporting or other personal consumer reports,479197
+2026-01,Debt collection,31351
+2026-01,Debt or credit management,436
+2026-01,"Money transfer, virtual currency, or money service",3493
+2026-01,Mortgage,3032
+2026-01,"Payday loan, title loan, personal loan, or advance loan",1714
+2026-01,Prepaid card,657
+2026-01,Student loan,2111
+2026-01,Vehicle loan or lease,2559
+2026-02,Checking or savings account,6861
+2026-02,Credit card,7679
+2026-02,Credit reporting or other personal consumer reports,466614
+2026-02,Debt collection,29709
+2026-02,Debt or credit management,385
+2026-02,"Money transfer, virtual currency, or money service",2955
+2026-02,Mortgage,2653
+2026-02,"Payday loan, title loan, personal loan, or advance loan",1394
+2026-02,Prepaid card,560
+2026-02,Student loan,1590
+2026-02,Vehicle loan or lease,2008
+2026-03,Checking or savings account,7887
+2026-03,Credit card,8381
+2026-03,Credit reporting or other personal consumer reports,552540
+2026-03,Debt collection,34382
+2026-03,Debt or credit management,431
+2026-03,"Money transfer, virtual currency, or money service",3431
+2026-03,Mortgage,2962
+2026-03,"Payday loan, title loan, personal loan, or advance loan",1531
+2026-03,Prepaid card,475
+2026-03,Student loan,2051
+2026-03,Vehicle loan or lease,2327
+2026-04,Checking or savings account,7758
+2026-04,Credit card,8305
+2026-04,Credit reporting or other personal consumer reports,564049
+2026-04,Debt collection,29308
+2026-04,Debt or credit management,386
+2026-04,"Money transfer, virtual currency, or money service",3506
+2026-04,Mortgage,3033
+2026-04,Other,1
+2026-04,"Payday loan, title loan, personal loan, or advance loan",1562
+2026-04,Prepaid card,476
+2026-04,Student loan,2020
+2026-04,Vehicle loan or lease,2252
+2026-05,Checking or savings account,7768
+2026-05,Credit card,8436
+2026-05,Credit reporting or other personal consumer reports,597113
+2026-05,Debt collection,32037
+2026-05,Debt or credit management,520
+2026-05,"Money transfer, virtual currency, or money service",3730
+2026-05,Mortgage,3051
+2026-05,Other,7
+2026-05,"Payday loan, title loan, personal loan, or advance loan",1734
+2026-05,Prepaid card,579
+2026-05,Student loan,1699
+2026-05,Vehicle loan or lease,2392
+2026-06,Checking or savings account,8879
+2026-06,Credit card,8423
+2026-06,Credit reporting or other personal consumer reports,715939
+2026-06,Debt collection,37079
+2026-06,Debt or credit management,455
+2026-06,"Money transfer, virtual currency, or money service",3614
+2026-06,Mortgage,3447
+2026-06,Other,51
+2026-06,"Payday loan, title loan, personal loan, or advance loan",1774
+2026-06,Prepaid card,710
+2026-06,Student loan,1779
+2026-06,Vehicle loan or lease,2350
+2026-07,Checking or savings account,6116
+2026-07,Credit card,5787
+2026-07,Credit reporting or other personal consumer reports,531204
+2026-07,Debt collection,26547
+2026-07,Debt or credit management,350
+2026-07,"Money transfer, virtual currency, or money service",2880
+2026-07,Mortgage,2291
+2026-07,Other,57
+2026-07,"Payday loan, title loan, personal loan, or advance loan",1451
+2026-07,Prepaid card,589
+2026-07,Student loan,1226
+2026-07,Vehicle loan or lease,1718
+2014-07,Bank account or service,1342
+2014-07,Mortgage,3637
+2015-02,Mortgage,3052
+2016-01,Debt collection,2913
+2016-08,Consumer Loan,845
+2016-09,Debt collection,3519
+2017-06,Debt collection,3699
+2017-08,Checking or savings account,1574
+2017-08,Debt collection,4368
+2017-10,Checking or savings account,1467
+2017-10,Debt collection,4028
+2017-12,Debt collection,3880
+2018-02,Checking or savings account,1611
+2018-02,Debt collection,4460
+2018-07,Debt collection,3991
+2018-09,Debt collection,3678
+2018-10,Debt collection,4078
+2019-01,Credit card or prepaid card,1906
+2019-10,Credit card or prepaid card,2357
+2019-11,Debt collection,3516
+2020-05,"Credit reporting, credit repair services, or other personal consumer reports",23518
+2020-12,Debt collection,4644
+2021-03,Mortgage,2914
+2021-06,Debt collection,6617
+2021-10,Checking or savings account,2447
+2021-10,Debt collection,5725
+2023-02,Checking or savings account,3945
+2023-03,"Credit reporting, credit repair services, or other personal consumer reports",29344
+2023-07,Mortgage,1
+2023-08,"Credit reporting, credit repair services, or other personal consumer reports",17
+2023-09,Credit card,2
+2023-09,Credit reporting or other personal consumer reports,4
+2023-10,Credit card,1
+2023-11,Credit card,3558
+2023-11,Debt collection,4117
+2023-12,Credit card,4776
+2023-12,Credit reporting or other personal consumer reports,101735
+2023-12,Debt collection,6137
+2023-12,Student loan,1289
+2024-01,Credit card,5248
+2024-02,Debt collection,8772
+2024-02,"Payday loan, title loan, personal loan, or advance loan",629
+2024-03,Prepaid card,597
+2024-04,Prepaid card,554
+2024-05,Debt collection,12427
+2024-05,Mortgage,1713
+2024-06,Credit card,5535
+2024-07,Mortgage,1737
+2024-08,"Payday loan, title loan, personal loan, or advance loan",750
+2024-09,Checking or savings account,4270
+2024-11,Checking or savings account,5175
+2024-11,Debt collection,15454
+2024-11,Vehicle loan or lease,1141
+2024-12,Debt collection,16424
+2024-12,Vehicle loan or lease,1245
+2025-02,Debt collection,17032
+2025-03,Student loan,3413
+2025-04,Vehicle loan or lease,1423
+2025-05,Mortgage,1969
+2025-06,Credit card,7364
+2025-07,"Money transfer, virtual currency, or money service",2823
+2025-08,Debt or credit management,306
+2025-10,Debt or credit management,298
+2025-11,Prepaid card,489
+2013-01,Credit reporting,911
+2013-05,Bank account or service,1021
+2014-04,Debt collection,3689
+2015-03,Mortgage,3555
+2016-08,Non-financial product/service,1
+2016-11,Mortgage,3191
+2017-09,"Credit reporting, credit repair services, or other personal consumer reports",16090
+2018-06,Debt collection,4242
+2018-08,Mortgage,2084
+2020-03,"Money transfer, virtual currency, or money service",461
+2021-04,Checking or savings account,2452
+2021-04,Mortgage,2522
+2021-12,"Payday loan, title loan, or personal loan",405
+2023-11,Checking or savings account,2701
+2023-11,Debt or credit management,76
+2023-11,"Money transfer, virtual currency, or money service",807
+2023-11,Mortgage,1284
+2023-11,"Payday loan, title loan, personal loan, or advance loan",391
+2023-11,Prepaid card,332
+2023-11,Student loan,1032
+2023-11,Vehicle loan or lease,716
+2023-12,Checking or savings account,3821
+2023-12,Debt or credit management,111
+2023-12,"Money transfer, virtual currency, or money service",1232
+2023-12,Mortgage,1779
+2023-12,"Payday loan, title loan, personal loan, or advance loan",573
+2023-12,Prepaid card,695
+2023-12,Vehicle loan or lease,918
+2024-01,Checking or savings account,4032
+2024-01,Debt collection,7176
+2024-01,Debt or credit management,142
+2024-01,"Money transfer, virtual currency, or money service",1286
+2024-01,Mortgage,1812
+2024-01,"Payday loan, title loan, personal loan, or advance loan",791
+2024-01,Prepaid card,681
+2024-01,Student loan,1617
+2024-02,Debt or credit management,152
+2024-02,"Money transfer, virtual currency, or money service",1306
+2024-02,Mortgage,1942
+2024-02,Prepaid card,553
+2024-02,Student loan,1222
+2024-02,Vehicle loan or lease,1032
+2024-03,Credit card,5889
+2024-03,Debt collection,12354
+2024-03,Debt or credit management,159
+2024-03,"Money transfer, virtual currency, or money service",1457
+2024-03,"Payday loan, title loan, personal loan, or advance loan",916
+2024-03,Student loan,1323
+2024-03,Vehicle loan or lease,1333
+2024-04,Checking or savings account,4327
+2024-04,Credit card,6676
+2024-04,Debt collection,12912
+2024-04,Debt or credit management,180
+2024-04,"Money transfer, virtual currency, or money service",1285
+2024-04,"Payday loan, title loan, personal loan, or advance loan",667
+2024-04,Student loan,1159
+2024-04,Vehicle loan or lease,1094
+2024-05,Debt or credit management,194
+2024-05,"Money transfer, virtual currency, or money service",1351
+2024-05,"Payday loan, title loan, personal loan, or advance loan",713
+2024-05,Prepaid card,535
+2024-05,Student loan,1260
+2024-06,Debt collection,11099
+2024-06,Debt or credit management,173
+2024-06,"Money transfer, virtual currency, or money service",1268
+2024-06,"Payday loan, title loan, personal loan, or advance loan",622
+2024-06,Prepaid card,494
+2024-06,Student loan,987
+2024-06,Vehicle loan or lease,946
+2024-07,Checking or savings account,4329
+2024-07,Credit card,6192
+2024-07,Debt collection,12149
+2024-07,Debt or credit management,168
+2024-07,"Money transfer, virtual currency, or money service",1328
+2024-07,"Payday loan, title loan, personal loan, or advance loan",721
+2024-07,Prepaid card,478
+2024-07,Student loan,960
+2024-07,Vehicle loan or lease,1025
+2024-08,Credit card,7355
+2024-08,Debt collection,14171
+2024-08,Debt or credit management,201
+2024-08,"Money transfer, virtual currency, or money service",1557
+2024-08,Prepaid card,458
+2024-08,Student loan,882
+2024-08,Vehicle loan or lease,1150
+2024-09,Credit card,7185
+2024-09,Debt collection,15475
+2024-09,Debt or credit management,145
+2024-09,"Money transfer, virtual currency, or money service",1316
+2024-09,Mortgage,1779
+2024-09,Prepaid card,349
+2024-09,Student loan,1549
+2024-09,Vehicle loan or lease,1087
+2024-10,Checking or savings account,4692
+2024-10,Credit card,7176
+2024-10,Debt or credit management,217
+2024-10,"Money transfer, virtual currency, or money service",1450
+2024-10,"Payday loan, title loan, personal loan, or advance loan",879
+2024-10,Prepaid card,447
+2024-10,Student loan,1459
+2024-10,Vehicle loan or lease,1187
+2024-11,Credit card,6095
+2024-11,Debt or credit management,154
+2024-11,"Payday loan, title loan, personal loan, or advance loan",802
+2024-11,Prepaid card,458
+2024-11,Student loan,916
+2024-12,Checking or savings account,4798
+2024-12,Credit card,6697
+2024-12,Debt or credit management,528
+2024-12,"Money transfer, virtual currency, or money service",1731
+2024-12,"Payday loan, title loan, personal loan, or advance loan",807
+2024-12,Prepaid card,720
+2025-01,Checking or savings account,18367
+2025-01,Debt or credit management,693
+2025-01,Mortgage,2204
+2025-01,Vehicle loan or lease,1920
+2025-02,Credit card,6213
+2025-02,Debt or credit management,353
+2025-02,Mortgage,1754
+2025-02,"Payday loan, title loan, personal loan, or advance loan",750
+2025-02,Prepaid card,495
+2025-02,Vehicle loan or lease,1358
+2025-03,Credit card,6255
+2025-03,Debt or credit management,338
+2025-03,"Money transfer, virtual currency, or money service",3032
+2025-03,"Payday loan, title loan, personal loan, or advance loan",862
+2025-03,Prepaid card,485
+2025-04,Checking or savings account,5229
+2025-04,Credit card,6897
+2025-04,Debt or credit management,302
+2025-04,"Money transfer, virtual currency, or money service",2504
+2025-04,"Payday loan, title loan, personal loan, or advance loan",892
+2025-04,Prepaid card,508
+2025-05,Debt or credit management,275
+2025-05,"Money transfer, virtual currency, or money service",2652
+2025-05,"Payday loan, title loan, personal loan, or advance loan",985
+2025-05,Prepaid card,513
+2025-05,Vehicle loan or lease,1643
+2025-06,Debt collection,21860
+2025-06,Debt or credit management,298
+2025-06,"Payday loan, title loan, personal loan, or advance loan",1069
+2025-06,Prepaid card,490
+2025-07,Prepaid card,560
+2025-08,"Money transfer, virtual currency, or money service",2879
+2025-08,Vehicle loan or lease,1738
+2025-09,Debt or credit management,373
+2025-09,"Money transfer, virtual currency, or money service",2505
+2025-09,Prepaid card,531
+2025-09,Vehicle loan or lease,1743
+2025-10,Prepaid card,481
+2011-12,Credit card,1260
+2011-12,Mortgage,1276
+2012-01,Credit card,1167
+2012-01,Mortgage,2063
+2012-02,Credit card,1212
+2012-02,Mortgage,2297
+2012-03,Consumer Loan,141
+2012-03,Credit card,1378
+2012-03,Mortgage,2996
+2012-03,Student loan,524
+2012-04,Bank account or service,1256
+2012-04,Credit card,1173
+2012-04,Mortgage,2852
+2012-04,Student loan,249
+2012-05,Bank account or service,1668
+2012-05,Consumer Loan,259
+2012-05,Credit card,1467
+2012-05,Mortgage,4046
+2012-05,Student loan,174
+2012-06,Bank account or service,1394
+2012-06,Consumer Loan,218
+2012-06,Credit card,1699
+2012-06,Mortgage,3961
+2012-06,Student loan,569
+2012-07,Bank account or service,1299
+2012-07,Consumer Loan,195
+2012-07,Credit card,1505
+2012-07,Mortgage,3514
+2012-07,Student loan,242
+2012-08,Bank account or service,1258
+2012-08,Consumer Loan,222
+2012-08,Credit card,1281
+2012-08,Mortgage,3898
+2012-08,Student loan,218
+2012-09,Bank account or service,1085
+2012-09,Consumer Loan,174
+2012-09,Credit card,994
+2012-09,Mortgage,3053
+2012-09,Student loan,186
+2012-10,Bank account or service,1206
+2012-10,Consumer Loan,232
+2012-10,Credit card,1358
+2012-10,Credit reporting,360
+2012-10,Mortgage,3319
+2012-10,Student loan,266
+2012-11,Bank account or service,940
+2012-11,Consumer Loan,175
+2012-11,Credit card,1086
+2012-11,Credit reporting,782
+2012-11,Mortgage,2931
+2012-11,Student loan,225
+2012-12,Bank account or service,914
+2012-12,Consumer Loan,197
+2012-12,Credit card,1032
+2012-12,Credit reporting,731
+2012-12,Mortgage,3177
+2012-12,Student loan,187
+2013-01,Bank account or service,1233
+2013-01,Consumer Loan,239
+2013-01,Credit card,1162
+2013-01,Mortgage,5931
+2013-01,Student loan,265
+2013-02,Bank account or service,1078
+2013-02,Consumer Loan,206
+2013-02,Credit card,1142
+2013-02,Credit reporting,1065
+2013-02,Mortgage,4624
+2013-02,Student loan,234
+2013-03,Bank account or service,1221
+2013-03,Consumer Loan,253
+2013-03,Credit card,1280
+2013-03,Credit reporting,1098
+2013-03,Mortgage,4693
+2013-03,Student loan,240
+2013-04,Bank account or service,1005
+2013-04,Consumer Loan,262
+2013-04,Credit card,1216
+2013-04,Credit reporting,1151
+2013-04,Money transfers,41
+2013-04,Mortgage,4720
+2013-04,Student loan,237
+2013-05,Consumer Loan,261
+2013-05,Credit card,1072
+2013-05,Credit reporting,1207
+2013-05,Money transfers,36
+2013-05,Mortgage,4372
+2013-05,Student loan,201
+2013-06,Bank account or service,1051
+2013-06,Consumer Loan,248
+2013-06,Credit card,1022
+2013-06,Credit reporting,1112
+2013-06,Money transfers,51
+2013-06,Mortgage,4367
+2013-06,Student loan,184
+2013-07,Bank account or service,1180
+2013-07,Consumer Loan,255
+2013-07,Credit card,1036
+2013-07,Credit reporting,1249
+2013-07,Debt collection,900
+2013-07,Money transfers,50
+2013-07,Student loan,249
+2013-08,Bank account or service,1119
+2013-08,Consumer Loan,271
+2013-08,Credit card,1076
+2013-08,Credit reporting,1253
+2013-08,Debt collection,1494
+2013-08,Money transfers,55
+2013-08,Mortgage,4036
+2013-08,Student loan,260
+2013-09,Bank account or service,1129
+2013-09,Consumer Loan,289
+2013-09,Credit card,1085
+2013-09,Credit reporting,1447
+2013-09,Debt collection,2003
+2013-09,Money transfers,62
+2013-09,Mortgage,3368
+2013-09,Student loan,253
+2013-10,Bank account or service,1226
+2013-10,Consumer Loan,280
+2013-10,Credit card,1062
+2013-10,Credit reporting,1290
+2013-10,Debt collection,1792
+2013-10,Money transfers,86
+2013-10,Mortgage,3193
+2013-10,Student loan,311
+2013-11,Bank account or service,1047
+2013-11,Consumer Loan,248
+2013-11,Credit card,950
+2013-11,Credit reporting,1300
+2013-11,Debt collection,2448
+2013-11,Money transfers,87
+2013-11,Mortgage,2883
+2013-11,Payday loan,87
+2013-11,Student loan,268
+2013-12,Bank account or service,1078
+2013-12,Consumer Loan,305
+2013-12,Credit card,1002
+2013-12,Credit reporting,1297
+2013-12,Debt collection,2431
+2013-12,Money transfers,91
+2013-12,Mortgage,2860
+2013-12,Payday loan,107
+2013-12,Student loan,303
+2014-01,Bank account or service,1259
+2014-01,Consumer Loan,350
+2014-01,Credit card,1190
+2014-01,Credit reporting,2357
+2014-01,Debt collection,3266
+2014-01,Money transfers,97
+2014-01,Payday loan,143
+2014-01,Student loan,354
+2014-02,Bank account or service,1178
+2014-02,Consumer Loan,311
+2014-02,Credit card,1237
+2014-02,Credit reporting,2538
+2014-02,Debt collection,3369
+2014-02,Money transfers,84
+2014-02,Mortgage,3859
+2014-02,Payday loan,121
+2014-02,Student loan,349
+2014-03,Bank account or service,1286
+2014-03,Consumer Loan,402
+2014-03,Credit card,1263
+2014-03,Credit reporting,2589
+2014-03,Debt collection,3589
+2014-03,Money transfers,105
+2014-03,Mortgage,4178
+2014-03,Payday loan,125
+2014-03,Student loan,403
+2014-04,Bank account or service,1277
+2014-04,Consumer Loan,396
+2014-04,Credit card,1297
+2014-04,Credit reporting,2549
+2014-04,Money transfers,112
+2014-04,Mortgage,4030
+2014-04,Payday loan,119
+2014-04,Student loan,365
+2014-05,Bank account or service,1236
+2014-05,Consumer Loan,297
+2014-05,Credit card,1101
+2014-05,Credit reporting,2300
+2014-05,Debt collection,3200
+2014-05,Money transfers,100
+2014-05,Mortgage,3452
+2014-05,Payday loan,127
+2014-05,Student loan,345
+2014-06,Bank account or service,1223
+2014-06,Consumer Loan,366
+2014-06,Credit card,1070
+2014-06,Credit reporting,2465
+2014-06,Debt collection,3387
+2014-06,Money transfers,117
+2014-06,Mortgage,3424
+2014-06,Payday loan,104
+2014-06,Student loan,352
+2014-07,Consumer Loan,485
+2014-07,Credit card,1159
+2014-07,Credit reporting,2659
+2014-07,Debt collection,3467
+2014-07,Money transfers,84
+2014-07,Other financial service,11
+2014-07,Payday loan,164
+2014-07,Prepaid card,38
+2014-07,Student loan,356
+2014-08,Bank account or service,1180
+2014-08,Consumer Loan,605
+2014-08,Credit reporting,2668
+2014-08,Debt collection,3221
+2014-08,Money transfers,94
+2014-08,Mortgage,3596
+2014-08,Other financial service,22
+2014-08,Payday loan,162
+2014-08,Prepaid card,49
+2014-08,Student loan,342
+2014-08,Virtual currency,1
+2014-09,Bank account or service,1186
+2014-09,Consumer Loan,562
+2014-09,Credit card,1173
+2014-09,Credit reporting,2482
+2014-09,Debt collection,2881
+2014-09,Money transfers,108
+2014-09,Mortgage,3435
+2014-09,Other financial service,24
+2014-09,Payday loan,180
+2014-09,Prepaid card,59
+2014-09,Student loan,364
+2014-10,Bank account or service,1284
+2014-10,Consumer Loan,595
+2014-10,Credit card,1094
+2014-10,Credit reporting,2262
+2014-10,Debt collection,3205
+2014-10,Money transfers,84
+2014-10,Mortgage,3747
+2014-10,Other financial service,29
+2014-10,Payday loan,153
+2014-10,Prepaid card,58
+2014-10,Student loan,371
+2014-11,Bank account or service,1074
+2014-11,Consumer Loan,503
+2014-11,Credit card,1058
+2014-11,Credit reporting,2179
+2014-11,Debt collection,2805
+2014-11,Money transfers,75
+2014-11,Mortgage,2971
+2014-11,Other financial service,17
+2014-11,Payday loan,159
+2014-11,Prepaid card,61
+2014-11,Student loan,341
+2014-12,Bank account or service,1137
+2014-12,Consumer Loan,583
+2014-12,Credit card,1103
+2014-12,Credit reporting,2190
+2014-12,Debt collection,2953
+2014-12,Money transfers,109
+2014-12,Mortgage,3013
+2014-12,Other financial service,13
+2014-12,Payday loan,146
+2014-12,Prepaid card,71
+2014-12,Student loan,340
+2015-01,Bank account or service,1260
+2015-01,Consumer Loan,594
+2015-01,Credit card,1141
+2015-01,Credit reporting,2676
+2015-01,Debt collection,3241
+2015-01,Money transfers,105
+2015-01,Mortgage,3009
+2015-01,Other financial service,16
+2015-01,Payday loan,134
+2015-01,Prepaid card,78
+2015-01,Student loan,354
+2015-02,Bank account or service,1109
+2015-02,Consumer Loan,582
+2015-02,Credit card,1392
+2015-02,Credit reporting,2381
+2015-02,Debt collection,3391
+2015-02,Money transfers,90
+2015-02,Other financial service,21
+2015-02,Payday loan,175
+2015-02,Prepaid card,92
+2015-02,Student loan,372
+2015-03,Bank account or service,1314
+2015-03,Consumer Loan,657
+2015-03,Credit card,1461
+2015-03,Credit reporting,2827
+2015-03,Debt collection,3858
+2015-03,Money transfers,131
+2015-03,Other financial service,28
+2015-03,Payday loan,140
+2015-03,Prepaid card,86
+2015-03,Student loan,432
+2015-04,Bank account or service,1339
+2015-04,Consumer Loan,540
+2015-04,Credit card,1403
+2015-04,Credit reporting,2688
+2015-04,Debt collection,3348
+2015-04,Money transfers,131
+2015-04,Mortgage,3617
+2015-04,Other financial service,19
+2015-04,Payday loan,139
+2015-04,Prepaid card,75
+2015-04,Student loan,429
+2015-05,Bank account or service,1291
+2015-05,Consumer Loan,607
+2015-05,Credit card,1456
+2015-05,Credit reporting,2656
+2015-05,Debt collection,3325
+2015-05,Money transfers,147
+2015-05,Mortgage,3589
+2015-05,Other financial service,24
+2015-05,Payday loan,103
+2015-05,Prepaid card,89
+2015-05,Student loan,384
+2015-06,Bank account or service,1511
+2015-06,Consumer Loan,624
+2015-06,Credit card,1445
+2015-06,Credit reporting,2709
+2015-06,Debt collection,3471
+2015-06,Money transfers,151
+2015-06,Mortgage,3961
+2015-06,Other financial service,28
+2015-06,Payday loan,138
+2015-06,Prepaid card,88
+2015-06,Student loan,376
+2015-07,Bank account or service,1531
+2015-07,Consumer Loan,815
+2015-07,Credit card,1535
+2015-07,Credit reporting,3686
+2015-07,Debt collection,3761
+2015-07,Money transfers,161
+2015-07,Mortgage,3746
+2015-07,Other financial service,37
+2015-07,Payday loan,114
+2015-07,Prepaid card,98
+2015-07,Student loan,411
+2015-08,Bank account or service,1552
+2015-08,Consumer Loan,781
+2015-08,Credit card,1514
+2015-08,Credit reporting,3429
+2015-08,Debt collection,3558
+2015-08,Money transfers,145
+2015-08,Mortgage,4130
+2015-08,Other financial service,36
+2015-08,Payday loan,128
+2015-08,Prepaid card,73
+2015-08,Student loan,410
+2015-09,Bank account or service,1463
+2015-09,Consumer Loan,734
+2015-09,Credit card,1519
+2015-09,Credit reporting,2889
+2015-09,Debt collection,3140
+2015-09,Money transfers,114
+2015-09,Mortgage,3794
+2015-09,Other financial service,21
+2015-09,Payday loan,139
+2015-09,Prepaid card,107
+2015-09,Student loan,399
+2015-10,Bank account or service,1758
+2015-10,Consumer Loan,723
+2015-10,Credit card,1530
+2015-10,Credit reporting,2809
+2015-10,Debt collection,2999
+2015-10,Money transfers,173
+2015-10,Mortgage,3650
+2015-10,Other financial service,23
+2015-10,Payday loan,152
+2015-10,Prepaid card,703
+2015-10,Student loan,354
+2015-11,Bank account or service,1510
+2015-11,Consumer Loan,619
+2015-11,Credit card,1443
+2015-11,Credit reporting,2842
+2015-11,Debt collection,2616
+2015-11,Money transfers,130
+2015-11,Mortgage,3140
+2015-11,Other financial service,34
+2015-11,Payday loan,103
+2015-11,Prepaid card,167
+2015-11,Student loan,286
+2015-12,Bank account or service,1499
+2015-12,Consumer Loan,600
+2015-12,Credit card,1458
+2015-12,Credit reporting,2678
+2015-12,Debt collection,2857
+2015-12,Money transfers,141
+2015-12,Other financial service,25
+2015-12,Payday loan,111
+2015-12,Prepaid card,128
+2015-12,Student loan,294
+2016-01,Bank account or service,1663
+2016-01,Consumer Loan,686
+2016-01,Credit card,1571
+2016-01,Credit reporting,2758
+2016-01,Money transfers,134
+2016-01,Mortgage,3485
+2016-01,Other financial service,34
+2016-01,Payday loan,133
+2016-01,Prepaid card,117
+2016-01,Student loan,333
+2016-02,Bank account or service,1388
+2016-02,Consumer Loan,760
+2016-02,Credit card,1563
+2016-02,Credit reporting,3039
+2016-02,Debt collection,3215
+2016-02,Money transfers,139
+2016-02,Mortgage,3438
+2016-02,Other financial service,35
+2016-02,Payday loan,102
+2016-02,Prepaid card,76
+2016-02,Student loan,376
+2016-03,Bank account or service,1539
+2016-03,Consumer Loan,762
+2016-03,Credit card,1620
+2016-03,Credit reporting,4042
+2016-03,Debt collection,3515
+2016-03,Money transfers,131
+2016-03,Mortgage,3892
+2016-03,Other financial service,43
+2016-03,Payday loan,115
+2016-03,Prepaid card,121
+2016-03,Student loan,817
+2016-04,Bank account or service,1396
+2016-04,Consumer Loan,788
+2016-04,Credit card,1584
+2016-04,Credit reporting,3765
+2016-04,Debt collection,3233
+2016-04,Money transfers,127
+2016-04,Mortgage,3515
+2016-04,Other financial service,42
+2016-04,Payday loan,128
+2016-04,Prepaid card,91
+2016-04,Student loan,926
+2016-05,Bank account or service,1686
+2016-05,Consumer Loan,778
+2016-05,Credit card,1573
+2016-05,Credit reporting,3825
+2016-05,Debt collection,3058
+2016-05,Money transfers,143
+2016-05,Mortgage,3479
+2016-05,Other financial service,20
+2016-05,Payday loan,125
+2016-05,Prepaid card,113
+2016-05,Student loan,710
+2016-06,Bank account or service,1990
+2016-06,Consumer Loan,770
+2016-06,Credit card,1566
+2016-06,Credit reporting,3902
+2016-06,Debt collection,3228
+2016-06,Money transfers,128
+2016-06,Other financial service,59
+2016-06,Payday loan,145
+2016-06,Prepaid card,118
+2016-06,Student loan,637
+2016-07,Bank account or service,1848
+2016-07,Consumer Loan,787
+2016-07,Credit card,1760
+2016-07,Credit reporting,4396
+2016-07,Debt collection,3011
+2016-07,Money transfers,108
+2016-07,Mortgage,3186
+2016-07,Other financial service,22
+2016-07,Payday loan,119
+2016-07,Prepaid card,102
+2016-07,Student loan,693
+2016-08,Bank account or service,2003
+2016-08,Credit card,2021
+2016-08,Credit reporting,3946
+2016-08,Debt collection,4150
+2016-08,Money transfers,153
+2016-08,Mortgage,3486
+2016-08,Other financial service,47
+2016-08,Payday loan,151
+2016-08,Prepaid card,109
+2016-08,Student loan,768
+2016-09,Bank account or service,2422
+2016-09,Consumer Loan,869
+2016-09,Credit card,2188
+2016-09,Credit reporting,3621
+2016-09,Money transfers,141
+2016-09,Mortgage,3680
+2016-09,Other financial service,36
+2016-09,Payday loan,140
+2016-09,Prepaid card,92
+2016-09,Student loan,851
+2016-10,Consumer Loan,943
+2016-10,Credit card,2064
+2016-10,Credit reporting,4332
+2016-10,Debt collection,3554
+2016-10,Money transfers,125
+2016-10,Mortgage,3540
+2016-10,Other financial service,43
+2016-10,Payday loan,157
+2016-10,Prepaid card,96
+2016-10,Student loan,745
+2016-10,Virtual currency,2
+2016-11,Bank account or service,1852
+2016-11,Consumer Loan,766
+2016-11,Credit card,1731
+2016-11,Credit reporting,3277
+2016-11,Debt collection,3278
+2016-11,Money transfers,130
+2016-11,Other financial service,45
+2016-11,Payday loan,141
+2016-11,Prepaid card,101
+2016-11,Student loan,681
+2016-12,Bank account or service,1872
+2016-12,Consumer Loan,829
+2016-12,Credit card,1823
+2016-12,Credit reporting,3177
+2016-12,Debt collection,3660
+2016-12,Money transfers,108
+2016-12,Mortgage,3053
+2016-12,Other financial service,37
+2016-12,Payday loan,106
+2016-12,Prepaid card,114
+2016-12,Student loan,546
+2017-01,Consumer Loan,943
+2017-01,Credit card,1892
+2017-01,Credit reporting,3980
+2017-01,Debt collection,3720
+2017-01,Money transfers,110
+2017-01,Other financial service,47
+2017-01,Payday loan,125
+2017-01,Prepaid card,136
+2017-01,Student loan,4745
+2017-02,Bank account or service,1791
+2017-02,Consumer Loan,896
+2017-02,Credit card,1829
+2017-02,Credit reporting,4144
+2017-02,Debt collection,3931
+2017-02,Money transfers,103
+2017-02,Mortgage,2920
+2017-02,Other financial service,29
+2017-02,Payday loan,122
+2017-02,Prepaid card,122
+2017-02,Student loan,2190
+2017-03,Bank account or service,1939
+2017-03,Consumer Loan,1026
+2017-03,Credit card,2086
+2017-03,Credit reporting,4705
+2017-03,Debt collection,4589
+2017-03,Money transfers,136
+2017-03,Other financial service,53
+2017-03,Payday loan,130
+2017-03,Prepaid card,108
+2017-03,Student loan,1721
+2017-04,Bank account or service,1236
+2017-04,Consumer Loan,678
+2017-04,Credit card,1326
+2017-04,Credit reporting,3756
+2017-04,Debt collection,4167
+2017-04,Money transfers,91
+2017-04,Mortgage,2571
+2017-04,Other financial service,36
+2017-04,Payday loan,116
+2017-04,Prepaid card,83
+2017-04,Student loan,1441
+2017-05,Checking or savings account,1385
+2017-05,Credit card or prepaid card,1951
+2017-05,"Credit reporting, credit repair services, or other personal consumer reports",7107
+2017-05,Debt collection,4148
+2017-05,"Money transfer, virtual currency, or money service",273
+2017-05,Mortgage,2664
+2017-05,"Payday loan, title loan, or personal loan",318
+2017-05,Student loan,1024
+2017-05,Vehicle loan or lease,408
+2017-07,Checking or savings account,1675
+2017-07,Credit card or prepaid card,1835
+2017-07,"Credit reporting, credit repair services, or other personal consumer reports",8182
+2017-07,Debt collection,4214
+2017-07,"Money transfer, virtual currency, or money service",416
+2017-07,Mortgage,2293
+2017-07,"Payday loan, title loan, or personal loan",363
+2017-07,Student loan,1029
+2017-07,Vehicle loan or lease,411
+2015-04,Virtual currency,1
+2015-09,Virtual currency,1
+2015-10,Virtual currency,5
+2016-03,Virtual currency,2
+2016-06,Virtual currency,2
+2016-11,Virtual currency,1
+2017-01,Virtual currency,1
+2017-02,Virtual currency,1
+2017-04,Checking or savings account,347
+2017-04,Credit card or prepaid card,461
+2017-04,"Credit reporting, credit repair services, or other personal consumer reports",1961
+2017-04,"Money transfer, virtual currency, or money service",72
+2017-04,"Payday loan, title loan, or personal loan",81
+2017-04,Vehicle loan or lease,109
+2017-04,Virtual currency,1
+2017-06,Checking or savings account,1734
+2017-06,Credit card or prepaid card,1807
+2017-06,"Credit reporting, credit repair services, or other personal consumer reports",6920
+2017-06,"Money transfer, virtual currency, or money service",369
+2017-06,Mortgage,2350
+2017-06,"Payday loan, title loan, or personal loan",316
+2017-06,Student loan,891
+2017-06,Vehicle loan or lease,460
+2017-08,Credit card or prepaid card,1901
+2017-08,"Credit reporting, credit repair services, or other personal consumer reports",8786
+2017-08,"Money transfer, virtual currency, or money service",418
+2017-08,"Payday loan, title loan, or personal loan",385
+2017-08,Student loan,1018
+2017-08,Vehicle loan or lease,487
+2017-09,Checking or savings account,1574
+2017-09,Credit card or prepaid card,1872
+2017-09,Debt collection,3533
+2017-09,"Money transfer, virtual currency, or money service",351
+2017-09,Mortgage,2262
+2017-09,"Payday loan, title loan, or personal loan",350
+2017-09,Student loan,865
+2017-09,Vehicle loan or lease,439
+2017-10,Credit card or prepaid card,1882
+2017-10,"Credit reporting, credit repair services, or other personal consumer reports",8730
+2017-10,"Money transfer, virtual currency, or money service",290
+2017-10,"Payday loan, title loan, or personal loan",387
+2017-10,Student loan,879
+2017-10,Vehicle loan or lease,479
+2017-11,Checking or savings account,1594
+2017-11,Credit card or prepaid card,1854
+2017-11,"Credit reporting, credit repair services, or other personal consumer reports",7899
+2017-11,Debt collection,3558
+2017-11,"Money transfer, virtual currency, or money service",359
+2017-11,"Payday loan, title loan, or personal loan",373
+2017-11,Student loan,707
+2017-11,Vehicle loan or lease,468
+2017-12,Checking or savings account,1413
+2017-12,"Credit reporting, credit repair services, or other personal consumer reports",7694
+2017-12,"Money transfer, virtual currency, or money service",717
+2017-12,Mortgage,2034
+2017-12,"Payday loan, title loan, or personal loan",365
+2017-12,Student loan,651
+2017-12,Vehicle loan or lease,431
+2018-01,Checking or savings account,1739
+2018-01,Credit card or prepaid card,2139
+2018-01,"Credit reporting, credit repair services, or other personal consumer reports",9621
+2018-01,Debt collection,4898
+2018-01,"Money transfer, virtual currency, or money service",1220
+2018-01,Mortgage,2124
+2018-01,"Payday loan, title loan, or personal loan",400
+2018-01,Student loan,894
+2018-01,Vehicle loan or lease,598
+2018-02,Credit card or prepaid card,1936
+2018-02,"Credit reporting, credit repair services, or other personal consumer reports",9683
+2018-02,"Money transfer, virtual currency, or money service",574
+2018-02,Mortgage,2097
+2018-02,"Payday loan, title loan, or personal loan",385
+2018-02,Student loan,738
+2018-02,Vehicle loan or lease,475
+2018-03,Checking or savings account,1762
+2018-03,Credit card or prepaid card,2130
+2018-03,"Credit reporting, credit repair services, or other personal consumer reports",9874
+2018-03,Debt collection,5254
+2018-03,"Money transfer, virtual currency, or money service",471
+2018-03,Mortgage,2420
+2018-03,"Payday loan, title loan, or personal loan",360
+2018-03,Student loan,839
+2018-03,Vehicle loan or lease,510
+2018-04,Checking or savings account,1911
+2018-04,Credit card or prepaid card,2328
+2018-04,"Credit reporting, credit repair services, or other personal consumer reports",10338
+2018-04,Debt collection,4748
+2018-04,"Money transfer, virtual currency, or money service",408
+2018-04,"Payday loan, title loan, or personal loan",444
+2018-04,Student loan,827
+2018-04,Vehicle loan or lease,586
+2018-05,Checking or savings account,1831
+2018-05,Credit card or prepaid card,2128
+2018-05,"Credit reporting, credit repair services, or other personal consumer reports",9470
+2018-05,Debt collection,4729
+2018-05,"Money transfer, virtual currency, or money service",363
+2018-05,"Payday loan, title loan, or personal loan",313
+2018-05,Student loan,733
+2018-05,Vehicle loan or lease,535
+2018-06,Checking or savings account,1755
+2018-06,Credit card or prepaid card,1868
+2018-06,"Credit reporting, credit repair services, or other personal consumer reports",8492
+2018-06,"Money transfer, virtual currency, or money service",388
+2018-06,Mortgage,1885
+2018-06,"Payday loan, title loan, or personal loan",344
+2018-06,Student loan,664
+2018-06,Vehicle loan or lease,455
+2018-07,Checking or savings account,1814
+2018-07,Credit card or prepaid card,1986
+2018-07,"Credit reporting, credit repair services, or other personal consumer reports",9136
+2018-07,"Money transfer, virtual currency, or money service",347
+2018-07,Mortgage,2015
+2018-07,"Payday loan, title loan, or personal loan",344
+2018-07,Student loan,821
+2018-07,Vehicle loan or lease,491
+2018-08,Checking or savings account,1695
+2018-08,Credit card or prepaid card,2128
+2018-08,"Credit reporting, credit repair services, or other personal consumer reports",9447
+2018-08,Debt collection,4403
+2018-08,"Money transfer, virtual currency, or money service",367
+2018-08,"Payday loan, title loan, or personal loan",385
+2018-08,Student loan,732
+2018-08,Vehicle loan or lease,469
+2018-09,Checking or savings account,1669
+2018-09,Credit card or prepaid card,1819
+2018-09,"Credit reporting, credit repair services, or other personal consumer reports",8400
+2018-09,"Money transfer, virtual currency, or money service",300
+2018-09,Mortgage,1779
+2018-09,"Payday loan, title loan, or personal loan",305
+2018-09,Student loan,653
+2018-09,Vehicle loan or lease,461
+2018-10,Checking or savings account,1902
+2018-10,Credit card or prepaid card,2129
+2018-10,"Credit reporting, credit repair services, or other personal consumer reports",9846
+2018-10,"Money transfer, virtual currency, or money service",356
+2018-10,Mortgage,1966
+2018-10,"Payday loan, title loan, or personal loan",449
+2018-10,Student loan,667
+2018-10,Vehicle loan or lease,490
+2018-11,Credit card or prepaid card,1833
+2018-11,"Credit reporting, credit repair services, or other personal consumer reports",8927
+2018-11,Debt collection,3343
+2018-11,"Money transfer, virtual currency, or money service",304
+2018-11,Mortgage,1634
+2018-11,"Payday loan, title loan, or personal loan",316
+2018-11,Student loan,570
+2018-11,Vehicle loan or lease,402
+2018-12,Checking or savings account,1801
+2018-12,Credit card or prepaid card,1818
+2018-12,"Credit reporting, credit repair services, or other personal consumer reports",8362
+2018-12,Debt collection,3255
+2018-12,"Money transfer, virtual currency, or money service",332
+2018-12,Mortgage,1617
+2018-12,"Payday loan, title loan, or personal loan",316
+2018-12,Student loan,631
+2018-12,Vehicle loan or lease,412
+2019-01,Checking or savings account,1795
+2019-01,"Credit reporting, credit repair services, or other personal consumer reports",8512
+2019-01,Debt collection,3126
+2019-01,"Money transfer, virtual currency, or money service",343
+2019-01,Mortgage,1779
+2019-01,"Payday loan, title loan, or personal loan",324
+2019-01,Student loan,759
+2019-01,Vehicle loan or lease,383
+2019-02,Checking or savings account,1623
+2019-02,Credit card or prepaid card,1889
+2019-02,"Credit reporting, credit repair services, or other personal consumer reports",9361
+2019-02,Debt collection,3785
+2019-02,"Money transfer, virtual currency, or money service",334
+2019-02,Mortgage,1749
+2019-02,"Payday loan, title loan, or personal loan",292
+2019-02,Student loan,727
+2019-02,Vehicle loan or lease,434
+2019-03,Checking or savings account,1820
+2019-03,Credit card or prepaid card,2225
+2019-03,"Credit reporting, credit repair services, or other personal consumer reports",10999
+2019-03,Debt collection,4224
+2019-03,"Money transfer, virtual currency, or money service",415
+2019-03,"Payday loan, title loan, or personal loan",389
+2019-03,Student loan,796
+2019-03,Vehicle loan or lease,530
+2019-04,Checking or savings account,1817
+2019-04,Credit card or prepaid card,2150
+2019-04,"Credit reporting, credit repair services, or other personal consumer reports",11057
+2019-04,Debt collection,3977
+2019-04,"Money transfer, virtual currency, or money service",398
+2019-04,Mortgage,1993
+2019-04,"Payday loan, title loan, or personal loan",333
+2019-04,Student loan,705
+2019-04,Vehicle loan or lease,475
+2019-05,Checking or savings account,1876
+2019-05,Credit card or prepaid card,2139
+2019-05,"Credit reporting, credit repair services, or other personal consumer reports",11918
+2019-05,Debt collection,4129
+2019-05,"Money transfer, virtual currency, or money service",456
+2019-05,Mortgage,1945
+2019-05,"Payday loan, title loan, or personal loan",338
+2019-05,Student loan,579
+2019-05,Vehicle loan or lease,461
+2019-06,Checking or savings account,1813
+2019-06,Credit card or prepaid card,2153
+2019-06,"Credit reporting, credit repair services, or other personal consumer reports",11739
+2019-06,Debt collection,4043
+2019-06,"Money transfer, virtual currency, or money service",420
+2019-06,Mortgage,1856
+2019-06,"Payday loan, title loan, or personal loan",336
+2019-06,Student loan,533
+2019-06,Vehicle loan or lease,442
+2019-07,Checking or savings account,1843
+2019-07,Credit card or prepaid card,2232
+2019-07,"Credit reporting, credit repair services, or other personal consumer reports",13002
+2019-07,Debt collection,4005
+2019-07,"Money transfer, virtual currency, or money service",472
+2019-07,Mortgage,2012
+2019-07,"Payday loan, title loan, or personal loan",406
+2019-07,Student loan,587
+2019-07,Vehicle loan or lease,511
+2019-08,Checking or savings account,2062
+2019-08,Credit card or prepaid card,2310
+2019-08,"Credit reporting, credit repair services, or other personal consumer reports",13518
+2019-08,Debt collection,4219
+2019-08,"Money transfer, virtual currency, or money service",480
+2019-08,"Payday loan, title loan, or personal loan",421
+2019-08,Student loan,523
+2019-08,Vehicle loan or lease,475
+2019-09,Checking or savings account,1759
+2019-09,Credit card or prepaid card,2138
+2019-09,"Credit reporting, credit repair services, or other personal consumer reports",12089
+2019-09,Debt collection,3973
+2019-09,"Money transfer, virtual currency, or money service",467
+2019-09,Mortgage,1857
+2019-09,"Payday loan, title loan, or personal loan",350
+2019-09,Student loan,469
+2019-09,Vehicle loan or lease,463
+2019-10,Checking or savings account,1936
+2019-10,"Credit reporting, credit repair services, or other personal consumer reports",13211
+2019-10,Debt collection,4015
+2019-10,"Money transfer, virtual currency, or money service",483
+2019-10,Mortgage,2069
+2019-10,"Payday loan, title loan, or personal loan",429
+2019-10,Student loan,622
+2019-10,Vehicle loan or lease,502
+2019-11,Checking or savings account,1717
+2019-11,Credit card or prepaid card,2177
+2019-11,"Credit reporting, credit repair services, or other personal consumer reports",11845
+2019-11,"Money transfer, virtual currency, or money service",391
+2019-11,Mortgage,1717
+2019-11,"Payday loan, title loan, or personal loan",369
+2019-11,Student loan,490
+2019-11,Vehicle loan or lease,419
+2019-12,Checking or savings account,1673
+2019-12,Credit card or prepaid card,2148
+2019-12,"Credit reporting, credit repair services, or other personal consumer reports",11305
+2019-12,Debt collection,3321
+2019-12,"Money transfer, virtual currency, or money service",423
+2019-12,Mortgage,1687
+2019-12,"Payday loan, title loan, or personal loan",331
+2019-12,Student loan,418
+2019-12,Vehicle loan or lease,390
+2020-01,Checking or savings account,1845
+2020-01,Credit card or prepaid card,2401
+2020-01,"Credit reporting, credit repair services, or other personal consumer reports",14846
+2020-01,Debt collection,3759
+2020-01,"Money transfer, virtual currency, or money service",391
+2020-01,"Payday loan, title loan, or personal loan",322
+2020-01,Student loan,534
+2020-01,Vehicle loan or lease,461
+2020-02,Checking or savings account,1725
+2020-02,Credit card or prepaid card,2301
+2020-02,"Credit reporting, credit repair services, or other personal consumer reports",13601
+2020-02,Debt collection,3971
+2020-02,"Money transfer, virtual currency, or money service",389
+2020-02,Mortgage,1825
+2020-02,"Payday loan, title loan, or personal loan",331
+2020-02,Student loan,488
+2020-02,Vehicle loan or lease,448
+2020-03,Checking or savings account,1682
+2020-03,Credit card or prepaid card,2433
+2020-03,"Credit reporting, credit repair services, or other personal consumer reports",17219
+2020-03,Debt collection,4199
+2020-03,Mortgage,2136
+2020-03,"Payday loan, title loan, or personal loan",387
+2020-03,Student loan,476
+2020-03,Vehicle loan or lease,487
+2020-04,Checking or savings account,2022
+2020-04,Credit card or prepaid card,3171
+2020-04,"Credit reporting, credit repair services, or other personal consumer reports",20811
+2020-04,Debt collection,4506
+2020-04,"Money transfer, virtual currency, or money service",636
+2020-04,Mortgage,2201
+2020-04,"Payday loan, title loan, or personal loan",426
+2020-04,Student loan,473
+2020-04,Vehicle loan or lease,548
+2020-05,Checking or savings account,1902
+2020-05,Credit card or prepaid card,3161
+2020-05,Debt collection,4420
+2020-05,"Money transfer, virtual currency, or money service",739
+2020-05,Mortgage,1904
+2020-05,"Payday loan, title loan, or personal loan",376
+2020-05,Student loan,393
+2020-05,Vehicle loan or lease,574
+2020-06,Checking or savings account,2390
+2020-06,Credit card or prepaid card,3125
+2020-06,"Credit reporting, credit repair services, or other personal consumer reports",23454
+2020-06,Debt collection,4427
+2020-06,"Money transfer, virtual currency, or money service",1153
+2020-06,Mortgage,2009
+2020-06,"Payday loan, title loan, or personal loan",413
+2020-06,Student loan,316
+2020-06,Vehicle loan or lease,601
+2020-07,Checking or savings account,2524
+2020-07,Credit card or prepaid card,3057
+2020-07,"Credit reporting, credit repair services, or other personal consumer reports",25549
+2020-07,Debt collection,4848
+2020-07,"Money transfer, virtual currency, or money service",1181
+2020-07,Mortgage,2132
+2020-07,"Payday loan, title loan, or personal loan",403
+2020-07,Student loan,310
+2020-07,Vehicle loan or lease,635
+2020-08,Checking or savings account,2086
+2020-08,Credit card or prepaid card,2943
+2020-08,"Credit reporting, credit repair services, or other personal consumer reports",25266
+2020-08,Debt collection,4733
+2020-08,"Money transfer, virtual currency, or money service",830
+2020-08,Mortgage,2091
+2020-08,"Payday loan, title loan, or personal loan",329
+2020-08,Student loan,284
+2020-08,Vehicle loan or lease,625
+2020-09,Checking or savings account,2102
+2020-09,Credit card or prepaid card,2856
+2020-09,"Credit reporting, credit repair services, or other personal consumer reports",25969
+2020-09,Debt collection,4722
+2020-09,"Money transfer, virtual currency, or money service",583
+2020-09,Mortgage,2330
+2020-09,"Payday loan, title loan, or personal loan",340
+2020-09,Student loan,247
+2020-09,Vehicle loan or lease,726
+2020-10,Checking or savings account,2051
+2020-10,Credit card or prepaid card,2879
+2020-10,"Credit reporting, credit repair services, or other personal consumer reports",29976
+2020-10,Debt collection,4936
+2020-10,"Money transfer, virtual currency, or money service",601
+2020-10,Mortgage,2241
+2020-10,"Payday loan, title loan, or personal loan",338
+2020-10,Student loan,309
+2020-10,Vehicle loan or lease,644
+2020-11,Checking or savings account,1753
+2020-11,Credit card or prepaid card,2679
+2020-11,"Credit reporting, credit repair services, or other personal consumer reports",28907
+2020-11,Debt collection,4703
+2020-11,"Money transfer, virtual currency, or money service",574
+2020-11,"Payday loan, title loan, or personal loan",257
+2020-11,Student loan,270
+2020-11,Vehicle loan or lease,577
+2020-12,Checking or savings account,2156
+2020-12,Credit card or prepaid card,2873
+2020-12,"Money transfer, virtual currency, or money service",768
+2020-12,Mortgage,2127
+2020-12,"Payday loan, title loan, or personal loan",277
+2020-12,Student loan,285
+2020-12,Vehicle loan or lease,645
+2021-01,Checking or savings account,2335
+2021-01,Credit card or prepaid card,2792
+2021-01,"Credit reporting, credit repair services, or other personal consumer reports",28088
+2021-01,Debt collection,5020
+2021-01,"Money transfer, virtual currency, or money service",784
+2021-01,Mortgage,2189
+2021-01,"Payday loan, title loan, or personal loan",284
+2021-01,Student loan,345
+2021-01,Vehicle loan or lease,638
+2021-02,Checking or savings account,2191
+2021-02,Credit card or prepaid card,2740
+2021-02,"Money transfer, virtual currency, or money service",1094
+2021-02,Mortgage,2333
+2021-02,"Payday loan, title loan, or personal loan",311
+2021-02,Student loan,339
+2021-02,Vehicle loan or lease,598
+2021-03,Checking or savings account,2761
+2021-03,Credit card or prepaid card,3086
+2021-03,"Credit reporting, credit repair services, or other personal consumer reports",22527
+2021-03,Debt collection,6740
+2021-03,"Money transfer, virtual currency, or money service",1715
+2021-03,"Payday loan, title loan, or personal loan",357
+2021-03,Student loan,377
+2021-03,Vehicle loan or lease,695
+2021-04,Credit card or prepaid card,2557
+2021-04,"Money transfer, virtual currency, or money service",1710
+2021-04,"Payday loan, title loan, or personal loan",363
+2021-04,Student loan,331
+2021-04,Vehicle loan or lease,618
+2021-05,Checking or savings account,2711
+2021-05,Credit card or prepaid card,2368
+2021-05,"Credit reporting, credit repair services, or other personal consumer reports",25409
+2021-05,Debt collection,5429
+2021-05,"Money transfer, virtual currency, or money service",1748
+2021-05,Mortgage,2324
+2021-05,"Payday loan, title loan, or personal loan",389
+2021-05,Student loan,276
+2021-05,Vehicle loan or lease,658
+2021-06,Checking or savings account,2312
+2021-06,Credit card or prepaid card,2310
+2021-06,"Money transfer, virtual currency, or money service",1384
+2021-06,Mortgage,2172
+2021-06,"Payday loan, title loan, or personal loan",341
+2021-06,Student loan,268
+2021-06,Vehicle loan or lease,660
+2021-07,Checking or savings account,2337
+2021-07,Credit card or prepaid card,2522
+2021-07,"Credit reporting, credit repair services, or other personal consumer reports",28729
+2021-07,Debt collection,7172
+2021-07,"Money transfer, virtual currency, or money service",890
+2021-07,Mortgage,1993
+2021-07,"Payday loan, title loan, or personal loan",395
+2021-07,Student loan,388
+2021-07,Vehicle loan or lease,649
+2021-08,Checking or savings account,2471
+2021-08,Credit card or prepaid card,2526
+2021-08,"Credit reporting, credit repair services, or other personal consumer reports",27222
+2021-08,Debt collection,6058
+2021-08,"Money transfer, virtual currency, or money service",914
+2021-08,Mortgage,2052
+2021-08,"Payday loan, title loan, or personal loan",337
+2021-08,Student loan,367
+2021-08,Vehicle loan or lease,637
+2021-09,Credit card or prepaid card,2585
+2021-09,"Credit reporting, credit repair services, or other personal consumer reports",25209
+2021-09,Debt collection,5881
+2021-09,"Money transfer, virtual currency, or money service",865
+2021-09,Mortgage,2059
+2021-09,"Payday loan, title loan, or personal loan",371
+2021-09,Student loan,318
+2021-09,Vehicle loan or lease,718
+2021-10,Credit card or prepaid card,2880
+2021-10,"Credit reporting, credit repair services, or other personal consumer reports",23704
+2021-10,"Money transfer, virtual currency, or money service",910
+2021-10,Mortgage,2093
+2021-10,"Payday loan, title loan, or personal loan",396
+2021-10,Student loan,420
+2021-10,Vehicle loan or lease,720
+2021-11,Checking or savings account,2460
+2021-11,Credit card or prepaid card,2731
+2021-11,"Credit reporting, credit repair services, or other personal consumer reports",23940
+2021-11,Debt collection,5702
+2021-11,"Money transfer, virtual currency, or money service",949
+2021-11,Mortgage,1867
+2021-11,"Payday loan, title loan, or personal loan",403
+2021-11,Student loan,363
+2021-11,Vehicle loan or lease,654
+2021-12,Checking or savings account,2714
+2021-12,Credit card or prepaid card,2725
+2021-12,"Credit reporting, credit repair services, or other personal consumer reports",31294
+2021-12,Debt collection,4936
+2021-12,Student loan,334
+2022-01,Checking or savings account,2960
+2022-01,Credit card or prepaid card,3117
+2022-01,Debt collection,5072
+2022-01,"Money transfer, virtual currency, or money service",1019
+2022-01,"Payday loan, title loan, or personal loan",454
+2022-01,Student loan,568
+2022-02,Checking or savings account,3003
+2022-02,Credit card or prepaid card,3189
+2022-02,"Credit reporting, credit repair services, or other personal consumer reports",36534
+2022-02,Debt collection,5509
+2022-02,"Money transfer, virtual currency, or money service",883
+2022-02,Mortgage,2213
+2022-02,"Payday loan, title loan, or personal loan",511
+2022-02,Student loan,602
+2022-02,Vehicle loan or lease,741
+2022-03,Checking or savings account,3357
+2022-03,Credit card or prepaid card,3342
+2022-03,Debt collection,6108
+2022-03,"Money transfer, virtual currency, or money service",1110
+2022-03,"Payday loan, title loan, or personal loan",542
+2022-03,Student loan,658
+2022-03,Vehicle loan or lease,701
+2022-04,Credit card or prepaid card,3252
+2022-04,"Money transfer, virtual currency, or money service",1178
+2022-04,"Payday loan, title loan, or personal loan",492
+2022-04,Student loan,615
+2022-04,Vehicle loan or lease,764
+2022-05,Checking or savings account,2841
+2022-05,Credit card or prepaid card,2638
+2022-05,"Money transfer, virtual currency, or money service",1152
+2022-05,Mortgage,1793
+2022-05,"Payday loan, title loan, or personal loan",415
+2022-05,Student loan,413
+2022-05,Vehicle loan or lease,593
+2022-06,Checking or savings account,2808
+2022-06,Credit card or prepaid card,3060
+2022-06,Debt collection,4539
+2022-06,"Money transfer, virtual currency, or money service",1003
+2022-06,Mortgage,1793
+2022-06,"Payday loan, title loan, or personal loan",393
+2022-06,Student loan,430
+2022-06,Vehicle loan or lease,571
+2022-07,Checking or savings account,3056
+2022-07,"Credit reporting, credit repair services, or other personal consumer reports",49215
+2022-07,Debt collection,4377
+2022-07,"Money transfer, virtual currency, or money service",1192
+2022-07,"Payday loan, title loan, or personal loan",449
+2022-07,Student loan,462
+2022-07,Vehicle loan or lease,589
+2022-08,Checking or savings account,3431
+2022-08,Credit card or prepaid card,3752
+2022-08,Debt collection,4961
+2022-08,"Money transfer, virtual currency, or money service",1300
+2022-08,Mortgage,2019
+2022-08,"Payday loan, title loan, or personal loan",505
+2022-08,Student loan,601
+2022-08,Vehicle loan or lease,757
+2022-09,Checking or savings account,3187
+2022-09,Credit card or prepaid card,3542
+2022-09,"Money transfer, virtual currency, or money service",1202
+2022-09,Mortgage,1783
+2022-09,"Payday loan, title loan, or personal loan",560
+2022-09,Student loan,1120
+2022-09,Vehicle loan or lease,740
+2022-10,Credit card or prepaid card,3551
+2022-10,Debt collection,4730
+2022-10,"Money transfer, virtual currency, or money service",1099
+2022-10,Mortgage,1624
+2022-10,"Payday loan, title loan, or personal loan",505
+2022-10,Student loan,1354
+2022-10,Vehicle loan or lease,751
+2022-11,Checking or savings account,2987
+2022-11,Credit card or prepaid card,3330
+2022-11,"Money transfer, virtual currency, or money service",1221
+2022-11,Mortgage,1518
+2022-11,"Payday loan, title loan, or personal loan",462
+2022-11,Student loan,609
+2022-11,Vehicle loan or lease,803
+2022-12,Checking or savings account,3614
+2022-12,Credit card or prepaid card,3726
+2022-12,"Credit reporting, credit repair services, or other personal consumer reports",68155
+2022-12,Debt collection,4718
+2022-12,"Money transfer, virtual currency, or money service",1175
+2022-12,Mortgage,1824
+2022-12,"Payday loan, title loan, or personal loan",481
+2022-12,Student loan,520
+2022-12,Vehicle loan or lease,933
+2023-01,Credit card or prepaid card,4353
+2023-01,"Money transfer, virtual currency, or money service",1269
+2023-01,Mortgage,2837
+2023-01,"Payday loan, title loan, or personal loan",610
+2023-01,Student loan,580
+2023-01,Vehicle loan or lease,1505
+2023-02,Credit card or prepaid card,3961
+2023-02,Debt collection,5250
+2023-02,"Money transfer, virtual currency, or money service",1066
+2023-02,Mortgage,2165
+2023-02,"Payday loan, title loan, or personal loan",563
+2023-02,Student loan,528
+2023-02,Vehicle loan or lease,1170
+2023-03,Credit card or prepaid card,1511
+2023-03,"Money transfer, virtual currency, or money service",368
+2023-03,Mortgage,743
+2023-03,"Payday loan, title loan, or personal loan",204
+2023-03,Student loan,175
+2023-03,Vehicle loan or lease,373
