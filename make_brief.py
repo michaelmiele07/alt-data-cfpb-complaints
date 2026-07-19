@@ -56,12 +56,12 @@ doc = SimpleDocTemplate(str(OUT / "cfpb_investment_brief.pdf"),
                         rightMargin=0.85 * inch, topMargin=0.7 * inch,
                         bottomMargin=0.65 * inch)
 story = [
-    Paragraph("Investment Brief: CFPB Complaint Velocity as a Financial-Sector Smoke Detector", S["title"]),
-    Paragraph("Companion to the technical note &nbsp;·&nbsp; Michael Miele &nbsp;·&nbsp; July 18, 2026 &nbsp;·&nbsp; "
-              "github.com/michaelmiele07/alt-data-cfpb-complaints", S["sub"]),
+    Paragraph("Where There's Smoke: Consumer Complaint Velocity as an Early Warning in Financials", S["title"]),
+    Paragraph("Investment brief &nbsp;·&nbsp; Michael Miele &nbsp;·&nbsp; July 18, 2026 &nbsp;·&nbsp; "
+              "companion to the technical note &nbsp;·&nbsp; github.com/michaelmiele07/alt-data-cfpb-complaints", S["sub"]),
     HRFlowable(width="100%", thickness=0.7, color=HexColor(RULE), spaceAfter=7),
 
-    Paragraph("The idea in one paragraph", S["h"]),
+    Paragraph("The premise", S["h"]),
     Paragraph(
         "Every consumer complaint filed with the CFPB against a financial company is public, timestamped, and named. "
         "When a lender's operations break — a botched servicing migration, a fee scheme, a fraud-handling failure — "
@@ -69,7 +69,7 @@ story = [
         "Tracking each company's complaint velocity against its own history turns 17 million filings into a "
         "company-level operational-stress monitor that updates monthly and costs nothing.", S["body"]),
 
-    Paragraph("Why it should work (and where it actually does)", S["h"]),
+    Paragraph("The mechanism — and its measured limits", S["h"]),
     Paragraph(
         "The CFPB itself mines this database to pick enforcement targets, so complaint spikes and regulatory risk are "
         "mechanically linked. Historically the link is tight: Block and Capital One spiked to all-time records in the "
@@ -78,10 +78,10 @@ story = [
         "a naive monthly long-short on complaint growth does not pay, because the biggest spikes coincide with "
         "already-public news. The value is in <i>monitoring</i>, not mechanical ranking.", S["body"]),
 
-    Paragraph("Companies this touches", S["h"]),
+    Paragraph("The investable universe", S["h"]),
     table,
 
-    Paragraph("The investment angle", S["h"]),
+    Paragraph("How an investor would use it", S["h"]),
     Paragraph(
         "<b>Use it as a risk overlay and event monitor, not a standalone alpha signal.</b> (1) <b>Short-side / "
         "avoid-list confirmation:</b> a sustained multi-month complaint build (not a one-month January blip) raises "
@@ -92,7 +92,7 @@ story = [
         "servicer/fintech position, the per-company complaint mix (fees vs fraud vs servicing) reads like a free "
         "operational audit. Watch the artifacts: Rocket's 2026 spike is Mr. Cooper migration mechanics, not decay.", S["body"]),
 
-    Paragraph("Risks and honest caveats", S["h"]),
+    Paragraph("What could mislead you", S["h"]),
     Paragraph(
         "Complaint spikes are partly reactive to news (confirmation, not prediction); January is seasonally heavy; "
         "company attribution shifts with M&amp;A; the CFPB's own political fortunes could change intake behavior "
