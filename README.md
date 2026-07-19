@@ -62,3 +62,8 @@ regulatory action, credit losses, or guidance cuts — or revert?
 
 Data: CFPB complaint database is public domain. This is research, not
 investment advice.
+
+## Deliverables
+
+- Technical research note: [`out/cfpb_complaint_velocity_note.pdf`](out/cfpb_complaint_velocity_note.pdf)
+- One-page investment brief (idea, companies, angle): [`out/cfpb_investment_brief.pdf`](out/cfpb_investment_brief.pdf)
